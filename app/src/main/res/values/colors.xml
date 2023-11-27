@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name= "background">#1467b9</color>
+    <color name="bColor">#DCBFFF</color>
+    <color name="strap">#4998f3</color>
+    <color name="talent">#3c7ca3</color>
+    <color name="base">#8f8c39</color>
+    <color name="yellow">#edea18</color>
+
+</resources>
